@@ -1,6 +1,6 @@
-*{
-    /* border: dashed black 1px; */
-}
+/* *{
+    border: dashed black 1px;
+} */
 
 /* #region Utilitis*/
 .bg_header{
@@ -14,6 +14,9 @@
 }
 .text_white{
     color: white;
+}
+.text_header{
+    color:  #2c3e50;
 }
 .text_jumbo{
     color: #1abc9c;
@@ -35,6 +38,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.rule{
+    width: 70px;
+    height: 2px;
+    border-radius: 50px;
 }
 
 
