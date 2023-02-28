@@ -21,5 +21,25 @@
 .b_radius{
     border-radius: 5%;
 }
+#button_jumbo{
+    background-color: #1abc9c;
+}
+.fs_12px{
+   font-size: 12px; 
+}
+.circle_icon{
+    width: 2rem;
+    aspect-ratio: 1/1;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon_box{
+    width: 200px;
+}
+
 /* #endregion Utilitys*/
 
